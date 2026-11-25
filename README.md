@@ -29,6 +29,7 @@ From office hours with Boaz (Nov 5, 2026), still applied in this design:
 
 ```
 docs/        proposal + literature review
+data/        open_problems_40.md: the 40 OpenProblemBench problems, tagged S / C / G
 harness/     push prompts (optimization / novelty / critique x 3 persistence levels), baseline + Discussion control, conversation runner
 evals/       Model Spec Evals config + per-section scoring
 results/     raw transcripts + scored outputs
